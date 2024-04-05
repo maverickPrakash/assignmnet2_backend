@@ -8,7 +8,7 @@ import cors from 'cors';
 import { typeDefs } from './graphql/typeDefs.js';
 import { mongoose } from 'mongoose';
 import { Employees } from './schema/employee.js';
-import { User } from './schema/User.js';
+import { User } from './schema/user.js';
 
 
 
